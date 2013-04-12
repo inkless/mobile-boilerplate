@@ -1,14 +1,26 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-
-pids
-logs
-results
+*~
+*.diff
+*.patch
 
 npm-debug.log
+node_modules
+js/dist
+css/dist
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+intermediate
+publish
+.idea
