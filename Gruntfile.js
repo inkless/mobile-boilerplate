@@ -129,7 +129,7 @@ module.exports = function(grunt) {
 	grunt.registerTask("pages", function() {
 		var files = grunt.file.expand({
 			filter: "isFile"
-		}, "js/src/pages/*");
+		}, "js/src/pages/*.js");
 
 		var config = grunt.config.get(["uglify"]);
 
