@@ -46,7 +46,6 @@ module.exports = function(grunt) {
 					"css/dist/dist.min.css": [
 						"css/src/normalize.css",
 						"css/src/base.css",
-						"css/src/helper.css",
 						"css/src/main.css",
 						"css/src/responsive.css",
 						"css/src/print.css"
