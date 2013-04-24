@@ -29,7 +29,7 @@ Download from [here](https://github.com/inkless/mobile-boilerplate/zipball/maste
   icon.
 * Useful mobile friendly CSS and helper CSS.
 * Support responsive desgin with placeholder media queries.
-* The latest [Zepto](http://zepto.js.com/) included for mobile javascript library.
+* The latest [Zepto](http://zeptojs.com/) included for mobile javascript library.
 * Samle index file for developers.
 * Support css minify.
 * Support javascript concat and uglify.
