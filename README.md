@@ -11,6 +11,15 @@ Download from github or clone it:
 
 `git clone https://github.com/inkless/mobile-boilerplate.git`
 
+## Requirements
+
+* Make sure you have [node.js/npm](http://nodejs.org) installed.
+* Install the grunt-cli package so that you will have the correct version of grunt available 
+  from any project that needs it. This should be done as a global install:
+
+        npm install -g grunt-cli
+
+
 ## Features
 
 * HTML5 + CSS3
@@ -31,8 +40,19 @@ Download from github or clone it:
 
 ## Documentation
 
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
+### Getting started
+
+* [Usage](doc/usage.md) — Overview of the project contents.
+* [FAQ](doc/faq.md) — Frequently asked questions, along with their answers.
+
+### The core of Mobile Boilerplate
+
+* [HTML](doc/html.md) — A guide to the default HTML.
+* [CSS](doc/css.md) — A guide to the default CSS.
+* [JavaScript](doc/js.md) — A guide to the default JavaScript.
+* [Grunt](doc/grunt.md) — A guide to the Gruntfile.
+* [crossdomain.xml](doc/crossdomain.md) — An introduction to making use of
+  crossdomain requests.
+* [Everything else](doc/misc.md).
+
 
