@@ -9,7 +9,7 @@ And now it's adopted by <http://m.sdo.com>. Feel free to try it.
 
 Download from [here](https://github.com/inkless/mobile-boilerplate/zipball/master) or clone it:
 
-`git clone https://github.com/inkless/mobile-boilerplate.git`
+	git clone https://github.com/inkless/mobile-boilerplate.git
 
 ## Requirements
 
