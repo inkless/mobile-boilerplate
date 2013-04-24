@@ -10,12 +10,6 @@ at all. You should properly evaluate the environment before you give a try. The
 path of the file has been adjusted for convenience. Feel free to use directly 
 without hacking.
 
-This is for you own choice. If you want to use this mechanism, just try it.
-One thing I have to mention is that, this mechanism doesn't work in UC Browser
-which does't support font-family at all. So think twice before you want to use
-the font-awesome css. Note, I have help you adjust the path of the file, feel 
-free to use it directly without hacking.
-
 ### Why use Zepto as the default library?
 
 Zepto is a minimalist JavaScript library for modern browsers with a largely 
