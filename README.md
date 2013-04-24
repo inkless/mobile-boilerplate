@@ -7,7 +7,7 @@ And now it's adopted by <http://m.sdo.com>. Feel free to try it.
 
 ## Quick start
 
-Download from github or clone it:
+Download from [here](https://github.com/inkless/mobile-boilerplate/zipball/master) or clone it:
 
 `git clone https://github.com/inkless/mobile-boilerplate.git`
 
